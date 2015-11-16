@@ -1,3 +1,6 @@
 *.pyc
 machine-learning/ch03/data/
 *.png
+machine-learning/ch07/data/*.train
+machine-learning/ch07/data/ml-100k
+machine-learning/ch07/data/ml-100k.zip
