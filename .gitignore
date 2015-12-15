@@ -4,3 +4,4 @@ machine-learning/ch03/data/
 machine-learning/ch07/data/*.train
 machine-learning/ch07/data/ml-100k
 machine-learning/ch07/data/ml-100k.zip
+MNIST_data
